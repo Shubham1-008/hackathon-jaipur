@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/%20hackathon-jaipur/static/css/main.cd804f81.css",
+    "main.js": "/%20hackathon-jaipur/static/js/main.1a3c6b0a.js",
+    "static/js/787.6dc5d524.chunk.js": "/%20hackathon-jaipur/static/js/787.6dc5d524.chunk.js",
+    "static/media/homeless2.png": "/%20hackathon-jaipur/static/media/homeless2.74766662a18d6d2c1e3f.png",
+    "static/media/checkup.png": "/%20hackathon-jaipur/static/media/checkup.cacaf1f9f0a8ffbcf955.png",
+    "static/media/hunger.png": "/%20hackathon-jaipur/static/media/hunger.302d3a6130687e2f624d.png",
+    "static/media/charity.png": "/%20hackathon-jaipur/static/media/charity.d26a9044a4bc5872a960.png",
+    "static/media/clothes.jpeg": "/%20hackathon-jaipur/static/media/clothes.09d4c1b6cb77c1f82399.jpeg",
+    "static/media/f1.jpg": "/%20hackathon-jaipur/static/media/f1.9a4c0667d629c4a3cda5.jpg",
+    "static/media/food.jpeg": "/%20hackathon-jaipur/static/media/food.6564fc7342b88f0e2ab9.jpeg",
+    "static/media/organ.jpeg": "/%20hackathon-jaipur/static/media/organ.26ee76ffe40062dae607.jpeg",
+    "static/media/medicine.jpeg": "/%20hackathon-jaipur/static/media/medicine.feb7761b14f44c98bfe4.jpeg",
+    "static/media/job.jpeg": "/%20hackathon-jaipur/static/media/job.de722d90fb26d2b15b0d.jpeg",
+    "static/media/o2.png": "/%20hackathon-jaipur/static/media/o2.f0976ca561b4f370a6c7.png",
+    "static/media/homeless.jpg": "/%20hackathon-jaipur/static/media/homeless.2ffe898141aebd646efe.jpg",
+    "static/media/bd2.jpeg": "/%20hackathon-jaipur/static/media/bd2.20997d3a38dcfea7411e.jpeg",
+    "static/media/f3.jpg": "/%20hackathon-jaipur/static/media/f3.28124db2c5f677a38933.jpg",
+    "static/media/qr.jpeg": "/%20hackathon-jaipur/static/media/qr.2437ad63a0849284e425.jpeg",
+    "static/media/about.jpeg": "/%20hackathon-jaipur/static/media/about.5e38ff98b499d0505ff8.jpeg",
+    "static/media/donate.png": "/%20hackathon-jaipur/static/media/donate.0decb0fc8e5ba44c8295.png",
+    "static/media/healthy-food.png": "/%20hackathon-jaipur/static/media/healthy-food.89b85ea7a065a8b6f2b6.png",
+    "index.html": "/%20hackathon-jaipur/index.html",
+    "main.cd804f81.css.map": "/%20hackathon-jaipur/static/css/main.cd804f81.css.map",
+    "main.1a3c6b0a.js.map": "/%20hackathon-jaipur/static/js/main.1a3c6b0a.js.map",
+    "787.6dc5d524.chunk.js.map": "/%20hackathon-jaipur/static/js/787.6dc5d524.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd804f81.css",
+    "static/js/main.1a3c6b0a.js"
+  ]
+}
